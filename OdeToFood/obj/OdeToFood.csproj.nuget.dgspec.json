@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {}
+    "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+    "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "projectUniqueName": "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
         "projectName": "OdeToFood.Core",
-        "projectPath": "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
-        "packagesPath": "C:\\Users\\Tung Le\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood.Core\\obj\\",
+        "projectPath": "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "packagesPath": "C:\\Users\\tle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tung Le\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tle\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,17 +56,17 @@
         }
       }
     },
-    "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+    "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectUniqueName": "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
         "projectName": "OdeToFood.Data",
-        "projectPath": "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
-        "packagesPath": "C:\\Users\\Tung Le\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood.Data\\obj\\",
+        "projectPath": "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "packagesPath": "C:\\Users\\tle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tung Le\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tle\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
-                "projectPath": "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
+              "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+                "projectPath": "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
               }
             }
           }
@@ -93,6 +93,18 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -112,17 +124,17 @@
         }
       }
     },
-    "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {
+    "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "projectUniqueName": "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
         "projectName": "OdeToFood",
-        "projectPath": "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
-        "packagesPath": "C:\\Users\\Tung Le\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood\\obj\\",
+        "projectPath": "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "packagesPath": "C:\\Users\\tle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tung Le\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tle\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -135,8 +147,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
-                "projectPath": "C:\\Users\\Tung Le\\Desktop\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
+              "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+                "projectPath": "C:\\Users\\tle\\Desktop\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
               }
             }
           }
@@ -150,6 +162,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.1, )"
