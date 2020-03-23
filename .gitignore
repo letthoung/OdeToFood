@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Database lock file
+*.lock
+
 # User-specific files
 *.rsuser
 *.suo
@@ -12,9 +15,6 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-
-# Database lock file
-*.lock
 
 # Build results
 [Dd]ebug/
