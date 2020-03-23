@@ -113,3 +113,4 @@ C:\Users\Tung Le\Desktop\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.C
 C:\Users\Tung Le\Desktop\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
 C:\Users\Tung Le\Desktop\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
 C:\Users\Tung Le\Desktop\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\Tung Le\Desktop\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
