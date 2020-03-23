@@ -114,3 +114,4 @@ C:\Users\Tung Le\Desktop\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.D
 C:\Users\Tung Le\Desktop\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
 C:\Users\Tung Le\Desktop\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
 C:\Users\Tung Le\Desktop\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
+C:\Users\Tung Le\Desktop\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
