@@ -297,3 +297,4 @@ C:\Users\tle\Desktop\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\package.json
 C:\Users\tle\Desktop\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToCode.UseNodeModules.dll
 C:\Users\tle\Desktop\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\tle\Desktop\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\tle\Desktop\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CoreCompileInputs.cache

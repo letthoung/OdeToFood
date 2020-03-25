@@ -24,3 +24,4 @@ C:\Users\tle\Desktop\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.
 C:\Users\tle\Desktop\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.json
 C:\Users\tle\Desktop\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.dev.json
 C:\Users\tle\Desktop\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.genruntimeconfig.cache
+C:\Users\tle\Desktop\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CoreCompileInputs.cache

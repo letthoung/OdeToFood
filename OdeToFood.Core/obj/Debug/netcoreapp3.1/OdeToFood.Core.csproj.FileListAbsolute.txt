@@ -15,3 +15,7 @@ C:\Users\tle\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.
 C:\Users\tle\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfo.cs
 C:\Users\tle\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.dll
 C:\Users\tle\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\tle\Desktop\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.runtimeconfig.json
+C:\Users\tle\Desktop\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.runtimeconfig.dev.json
+C:\Users\tle\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\tle\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.genruntimeconfig.cache

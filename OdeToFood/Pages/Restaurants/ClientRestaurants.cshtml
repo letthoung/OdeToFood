@@ -22,14 +22,15 @@
     </environment>
     <script>
         $(function () {
+            var cuisines = ["None", "Mexican", "Italian", "Idian"];
             $.ajax("/api/restaurants/", { method: "get" })
                 .then(function (response) {
-                    $('#restaurants').DataTable({
+                    $('#restaurants').dataTable({
                         data: response,
                         columns: [
                             { "data": "name" },
                             { "data": "location" },
-                            { "data": "cuisine" }
+                            { "data": "cuisine", "render": function (data) { return cuisines[data]; } }
                         ]
                     });
                 });
